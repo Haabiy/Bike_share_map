@@ -1,0 +1,2 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+USA,New Orleans,100,City of New Orleans,2017-12-05,,City of New Orleans,Blue Bikes NOLA,Hybrid,https://bluebikesnola.com/,SoBi

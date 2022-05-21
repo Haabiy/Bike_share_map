@@ -1,0 +1,2 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+Germany,Stuttgart Regional,0,,,2018-10-31,,ebikestation Stuttgart Germany,,https://www.e-bike-stationen.de/,nextbike

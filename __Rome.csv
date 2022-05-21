@@ -1,0 +1,4 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+Italy,Rome,21,,,,,,,,
+Italy,Rome,2674,,2019-10-22,,Lime,JUMP by Lime,Dock-based,,JUMP
+Italy,Rome,72,,2019-11-15,,Helbiz,Helbiz,Dock-based,https://helbiz.com/cities/rome,Helbiz

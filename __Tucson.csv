@@ -1,0 +1,2 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+USA,Tucson,300,City of Tucson,2017-11-17,,Shift Transit (PBSC),tugo,Dock-based,https://tugobikeshare.com/,PBSC

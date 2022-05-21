@@ -1,0 +1,3 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+UK,Edinburgh,300,Edinburgh City Council,2018-09-17,2021-09-17,Serco,Just Eat Cycles,Physical and virtual stations,https://edinburghcyclehire.com/,Urban Sharing/Your Bike
+UK,Edinburgh (RBS Campus),0,RBS,2016-08-27,,nextbike UK,nextbike,Dock-based,http://www.nextbike.co.uk/,nextbike

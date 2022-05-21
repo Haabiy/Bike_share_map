@@ -1,0 +1,3 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+Taiwan,Taipei & Taoyuan,21941,Taipei City Department of Transportation,2009-03-01,,YouBike,YouBike,Dock-based,https://youbike.com.tw/intro.html,Giant
+Taiwan,Taipei NTU,4908,,2020-01-15,,YouBike,YouBike,Dock-based,https://youbike.com.tw/intro.html,YouBike 2.0

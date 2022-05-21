@@ -1,0 +1,2 @@
+country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
+Brazil,São Paulo,1349,Prefeitura de São Paulo,,,Tembici,Bike Sampa,Dock-based,https://bikeitau.com.br/bikesampa/,PBSC
