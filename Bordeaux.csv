@@ -1,4 +1,0 @@
-country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
-France,Bordeaux,721,Transports Bordeaux Metropole,2010-02-20,,Allo V³,VCub,Dock-based,https://www.vcub.fr/,Keolis
-France,Bordeaux,39,,2019-06-04,,Pony,Pony,Dock-based,https://getapony.com/en,Pony
-France,Bordeaux,2,,,,Zoov,Zoov,Dock-based,https://www.zoov.eu/en/bordeaux,JSON/GBFS

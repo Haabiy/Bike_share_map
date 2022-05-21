@@ -1,3 +1,0 @@
-country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
-China,Beijing,28973,,,,,Public Bicycle in Beijing,, http://www.bjysj.gov.cn/bjggzxc/,
-China,Beijing Huairou,1126,,,,"Beijing Zhongcheng Yongan Environmental Protection Technology Co., Ltd.",Beijing Huairou Public Bicycle,Dock-based,http://www.bjhrbike.cn/,

@@ -1,2 +1,0 @@
-country_name,city_name,nominal_num_bikes,cityhall,launch_date,closed_date,operator,operator_name,system_type,system_website,technology
-Mexico,Guadalajara,2319,Instituto de Movilidad y Transporte del Estado de Jalisco,,,BKT Bici Pública,MIBICI,Dock-based,https://www.mibici.net/en/,PBSC
